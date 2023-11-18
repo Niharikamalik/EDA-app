@@ -11,7 +11,7 @@ st.markdown('''
 
 This is the **EDA App** created in Streamlit using the **pandas-profiling** library.
 
-**Credit:** App built in `Python` + `Streamlit` by [Niharika Malik](https://medium.com/@chanin.nantasenamat))
+**Credit:** App built in `Python` + `Streamlit` by [Niharika Malik](https://github.com/Niharikamalik/EDA-app))
 
 ---
 ''')
